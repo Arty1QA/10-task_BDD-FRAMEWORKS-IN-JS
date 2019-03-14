@@ -1,0 +1,246 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "Files are opened in Web Client",
+    "line": 2,
+    "id": "files-are-opened-in-web-client",
+    "tags": [
+      {
+        "name": "@run",
+        "line": 1
+      }
+    ],
+    "uri": "features\\webclient.feature",
+    "elements": [
+      {
+        "id": "files-are-opened-in-web-client;login-to-web-client",
+        "keyword": "Scenario",
+        "line": 15,
+        "name": "Login to Web Client",
+        "tags": [
+          {
+            "name": "@run",
+            "line": 1
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "login to Web Client",
+            "match": {
+              "location": "Copy\\node_modules\\cucumber\\lib\\support_code_library_builder\\build_helpers.js:173"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1852000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 6,
+            "name": "I enter 'Admin'",
+            "match": {
+              "location": "Copy\\node_modules\\cucumber\\lib\\support_code_library_builder\\build_helpers.js:173"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 67000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 7,
+            "name": "I populate 'V3rt@f0r3'",
+            "match": {
+              "location": "Copy\\node_modules\\cucumber\\lib\\support_code_library_builder\\build_helpers.js:173"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 71000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 8,
+            "name": "I logged in",
+            "match": {
+              "location": "Copy\\node_modules\\cucumber\\lib\\support_code_library_builder\\build_helpers.js:173"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1782000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 10,
+            "name": "user click Sign Out",
+            "match": {
+              "location": "Copy\\node_modules\\cucumber\\lib\\support_code_library_builder\\build_helpers.js:173"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2622000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 11,
+            "name": "user is signed out",
+            "match": {
+              "location": "Copy\\node_modules\\cucumber\\lib\\support_code_library_builder\\build_helpers.js:173"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 33000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "Copy\\node_modules\\cucumber\\lib\\support_code_library_builder\\build_helpers.js:173"
+            },
+            "result": {
+              "status": "passed"
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "Copy\\node_modules\\cucumber\\lib\\support_code_library_builder\\build_helpers.js:173"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "files-are-opened-in-web-client;login-to-web-client",
+        "keyword": "Scenario",
+        "line": 16,
+        "name": "Login to Web Client",
+        "tags": [
+          {
+            "name": "@run",
+            "line": 1
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "login to Web Client",
+            "match": {
+              "location": "Copy\\node_modules\\cucumber\\lib\\support_code_library_builder\\build_helpers.js:173"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 75000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 6,
+            "name": "I enter 'User_2'",
+            "match": {
+              "location": "Copy\\node_modules\\cucumber\\lib\\support_code_library_builder\\build_helpers.js:173"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 55000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 7,
+            "name": "I populate 'User_2'",
+            "match": {
+              "location": "Copy\\node_modules\\cucumber\\lib\\support_code_library_builder\\build_helpers.js:173"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 46000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 8,
+            "name": "I logged in",
+            "match": {
+              "location": "Copy\\node_modules\\cucumber\\lib\\support_code_library_builder\\build_helpers.js:173"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 714000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 10,
+            "name": "user click Sign Out",
+            "match": {
+              "location": "Copy\\node_modules\\cucumber\\lib\\support_code_library_builder\\build_helpers.js:173"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3031000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 11,
+            "name": "user is signed out",
+            "match": {
+              "location": "Copy\\node_modules\\cucumber\\lib\\support_code_library_builder\\build_helpers.js:173"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 45000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "Copy\\node_modules\\cucumber\\lib\\support_code_library_builder\\build_helpers.js:173"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "Copy\\node_modules\\cucumber\\lib\\support_code_library_builder\\build_helpers.js:173"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
